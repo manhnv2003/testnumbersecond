@@ -1,0 +1,10 @@
+{
+  "products": {
+    "sanpham1": {
+      "anhsp": "https://fptshop.com.vn/Uploads/Originals/2021/3/15/637514266078486477_hp-pavilion-14-dv-bac-dd.jpg",
+      "giasp": "23",
+      "loaisp": "dien tu",
+      "tensp": "hp"
+    }
+  }
+}
